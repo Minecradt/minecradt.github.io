@@ -1,0 +1,13 @@
+html {
+    background: linear-gradient(0deg, #0fb3a0 0%, #7e3ce2 100%);
+}
+
+#text {
+    background: linear-gradient(0deg, #77f524 0%, #91a022 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 48px;
+    /* Adjust size as needed */
+    font-weight: bold;
+    /* Adjust weight as needed */
+}
